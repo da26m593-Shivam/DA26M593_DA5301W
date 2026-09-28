@@ -1,0 +1,11 @@
+name: leap-year-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - jupyter
+  - jupyterlab
+  - ipython
